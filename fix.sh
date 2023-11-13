@@ -1,0 +1,1 @@
+cp ./systemd-networkd-wait-online.service /etc/systemd/system/network-online.target.wants/
